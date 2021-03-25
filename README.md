@@ -1,4 +1,3 @@
-# mazeworld
 <h1 align="center">Welcome to MazeWorld</h1>
 
 ![webhat](https://user-images.githubusercontent.com/27035181/112409734-0ccd1400-8ce8-11eb-930e-c51eda151faf.jpg)
